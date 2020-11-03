@@ -45,5 +45,5 @@ Happy is a platform where you can find orphanages to visit and make children's d
  
  ---
 
-Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :zap:
+Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes) :zap:
  
